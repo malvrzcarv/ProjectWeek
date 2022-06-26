@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Adama Wade (Cheikh Anta Diop University, Dakar, Senegal)
 - Luiz Otavio Murta Junior (University of Sao Paulo, Ribeirao Preto, Brazil)
 - Vinicius Pavanelli Vianna (University of Sao Paulo, Ribeirao Preto, Brazil)
+- Mariana Alvarez-Carvajal (Autonomous University of the State of Mexico, Mexico)
 
 # Project Description
 
